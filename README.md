@@ -1,4 +1,4 @@
-# Optimised Sudoku solver
+# Optimized Sudoku solver
 This solver can solve any size sudoku 3x3, 4x4, ...,  nxm
 
 # Usage 
